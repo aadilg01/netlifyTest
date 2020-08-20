@@ -62,9 +62,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:smakosh/gatsby-portfolio-dev.git"
+    "url": "git+ssh://git@github.com/smakosh/gatsby-portfolio-dev.git"
   },
   "bugs": {
     "url": "https://github.com/smakosh/gatsby-portfolio-dev/issues"
-  }
+  },
+  "homepage": "https://github.com/smakosh/gatsby-portfolio-dev#readme",
+  "main": "gatsby-browser.js"
 }
